@@ -21,5 +21,8 @@ class Variables {
         // int num = 100_0_0_0;// easy numof zeros
         double num = 2e4;// e 10^
         System.out.println(num);
+
+        char c = 'a';
+        System.out.println(c);
     }
 }
