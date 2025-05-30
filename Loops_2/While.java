@@ -4,7 +4,16 @@ public class While {
         while(i<4)
         {
             System.out.println("Hi "+ i);
+            i++;
         }
-        
+
+        // DO WHILE LOOP
+
+        int j=1;
+        do{
+            System.out.println("hello");
+            j++;
+        }while(j<=4);
+
     }    
 }
