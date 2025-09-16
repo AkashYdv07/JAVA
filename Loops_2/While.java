@@ -8,7 +8,6 @@ public class While {
         }
 
         // DO WHILE LOOP
-
         int j=1;
         do{
             System.out.println("hello");
